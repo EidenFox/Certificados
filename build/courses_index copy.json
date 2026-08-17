@@ -1,0 +1,142 @@
+[
+    {
+        "nome_curso": "C Programming For Beginners - Learn C Language from Scratch",
+        "nome_professor": "Haris Ali Khan",
+        "quantidade_aulas": "64",
+        "tempo_curso": "9h 11m",
+        "descricao_curso": "In this course, you will learn C language from scratch. I have designed this course as your first ever introduction to programming and the best course you can start your coding journey from. The best part about this course is that it comes with a PDF handbook and in depth, line by line solved practice set that will make it easier for you to revise concepts.\n\nThis course starts with the basics of programming, covering all the core concepts of the C language - from variables, data types, and control structures to functions, arrays, pointers, and memory management. Step by step, we build a rock-solid foundation before diving into advanced topics like file handling, dynamic memory allocation, structures, unions, and real-world project implementations.\n\nBy the end of the course, you’ll not only understand how C works under the hood but also think like a true programmer who is ready to tackle any coding challenge with confidence. In short, we start simple… and then raise the bar like anything!\n\nI always wanted this course to design as an experience I never got back in the day when I started learning to code. I hope you will enjoy learning through this in depth C Language course!\n\nPara quem é este curso:\n- Beginners who are curious about learning to code\n- College going students looking to learn C Language as part of their curriculum",
+        "topicos_abordados": [
+            "Master C Language and build a solid programming foundation",
+            "Learn how logic building is done as a complete beginner",
+            "Learn what programming is and why we use C Language",
+            "Revise concepts from the PDF Handbook authored by top coding mentor in the Industry"
+        ],
+        "imagem_professor": "https://img-c.udemycdn.com/user/50x50/239666752_15ea.jpg",
+        "imagem_curso": "https://img-c.udemycdn.com/course/480x270/6854727_6371.jpg",
+        "link_certificado": "https://www.udemy.com/certificate/UC-0dfe8596-3195-4316-b18a-5e8ff55c1ded/",
+        "certificado_pdf": "../Udemy/C Programming For Beginners - Learn C Language from Scratch/UC-0dfe8596-3195-4316-b18a-5e8ff55c1ded.pdf",
+        "certificado_jpg": "../Udemy/C Programming For Beginners - Learn C Language from Scratch/UC-0dfe8596-3195-4316-b18a-5e8ff55c1ded.jpg"
+    },
+    {
+        "nome_curso": "Complete C++ Programming Course",
+        "nome_professor": "Dr. Anand Kumar",
+        "quantidade_aulas": "27",
+        "tempo_curso": "14h 39m",
+        "descricao_curso": "Welcome to the Complete C++ Programming Course by Dr. Anand Sir (CodeItUp).\n\nThis course is taught in Hinglish (Hindi + English), making it easy for beginners, college students, and aspiring programmers to understand C++ concepts through simple explanations and practical coding examples.\n\nWhether you're starting your programming journey or strengthening your Object-Oriented Programming (OOP) skills, this course will take you from the fundamentals of C++ to advanced concepts in a structured, step-by-step manner.\n\nThroughout the course, every concept is explained with real coding demonstrations, helping you understand not just the theory but also how to implement it in actual programs.",
+        "topicos_abordados": [
+            "Learn C++ fundamentals including variables, data types, operators, input/output, and syntax.",
+            "Master decision making, loops, functions, arrays, strings, and pointers in C++.",
+            "Understand Object-Oriented Programming concepts such as classes, objects, inheritance, polymorphism, and encapsulation.",
+            "Prepare for coding interviews, competitive programming, and software development careers.",
+            "Write optimized, clean, and industry-standard C++ code."
+        ],
+        "imagem_professor": "https://img-c.udemycdn.com/user/50x50/247763098_7d7f.jpg",
+        "imagem_curso": "https://img-c.udemycdn.com/course/480x270/7228359_3b34.jpg",
+        "link_certificado": "https://www.udemy.com/certificate/UC-ca1a8f95-c3bd-4485-b8ca-1222927b2b1d/",
+        "certificado_pdf": "../Udemy/Complete C++ Programming Course/UC-ca1a8f95-c3bd-4485-b8ca-1222927b2b1d.pdf",
+        "certificado_jpg": "../Udemy/Complete C++ Programming Course/UC-ca1a8f95-c3bd-4485-b8ca-1222927b2b1d.jpg"
+    },
+    {
+        "nome_curso": "Java primeiros passos: Lógica de Programação e Algoritmos",
+        "nome_professor": "Nelio Alves",
+        "quantidade_aulas": "75",
+        "tempo_curso": "8h 0m",
+        "descricao_curso": "Este curso equivale à disciplina de Lógica de Programação: disciplina inicial de programação em um curso de faculdade na área de Computação.\n\nAo final deste curso você será capaz de compreender e aplicar os fundamentos de Lógica de Programação, quais sejam:\n- Introdução à programação\n- Expressões Aritméticas, Comparativas e Lógicas\n- Estrutura sequencial, entrada/saída de dados e processamento\n- Estrutura condicional (if/else)\n- Estruturas repetitivas (while, for)\n- Vetores e Matrizes\n\nMÉTODO:\nCada um destes tópicos será explicado em detalhes, com ilustrações, esquemas e testes de mesa manuais, e o principal: muitos exercícios! Vamos resolver e discutir problemas como exemplo, e vamos disponibilizar muitos exercícios para você treinar e fixar o aprendizado, desde exercícios bem simples para começar, até exercícios mais instigantes como desafio.\n\nTodos exercícios virão ainda acompanhados de correção para você conferir. E, se você tiver alguma dúvida, nós estamos sempre na seção de Perguntas e Respostas para te atender.",
+        "topicos_abordados": [
+            "Fundamentos básicos de programação: estrutura sequencial, estrutura condicional (if-else), estruturas repetitivas (while, for, do-while), vetores e matrizes",
+            "Aplicar os conhecimentos adquiridos para solução de problemas básicos usando a linguagem Java",
+            "Utilizar o Eclipse para editar, depurar e executar programas",
+            "Desenvolver a habilidade de elaborar lógicas e soluções para problemas de programação"
+        ],
+        "imagem_professor": "https://img-c.udemycdn.com/user/50x50/23896614_cac2_7.jpg",
+        "imagem_curso": "https://img-c.udemycdn.com/course/480x270/1893688_149a_3.jpg",
+        "link_certificado": "https://www.udemy.com/certificate/UC-f64ca4de-a78a-45b8-8855-fb5fb6ca1d5e/",
+        "certificado_pdf": "../Udemy/Java primeiros passos - Lógica de Programação e Algoritmos/UC-f64ca4de-a78a-45b8-8855-fb5fb6ca1d5e.pdf",
+        "certificado_jpg": "../Udemy/Java primeiros passos - Lógica de Programação e Algoritmos/UC-f64ca4de-a78a-45b8-8855-fb5fb6ca1d5e.jpg"
+    },
+    {
+        "nome_curso": "Lógica de Programação em Python",
+        "nome_professor": "Élvis da Silva Steinbach",
+        "quantidade_aulas": "22",
+        "tempo_curso": "6h 46m",
+        "descricao_curso": "Bem-vindo ao nosso curso de Lógica de Programação em Python! Neste curso, você aprenderá os fundamentos da lógica de programação usando Python como a linguagem principal. Python é uma linguagem de programação poderosa, fácil de aprender e popular entre os desenvolvedores.\n\nDurante o curso, você será introduzido aos conceitos básicos de lógica de programação, incluindo variáveis, tipos de dados, operadores, estruturas de controle de fluxo e funções. Em seguida, você aprenderá como aplicar esses conceitos em Python para resolver problemas e criar programas simples.\n\nNos módulos posteriores, você será apresentado a tópicos mais avançados, como a criação de funções personalizadas e programação orientada à objetos. Você também aprenderá a usar bibliotecas Python comuns, como NumPy e Pandas, para manipulação de dados.\n\nO curso é projetado para ser adequado para iniciantes na programação, mas também fornecerá insights valiosos para aqueles com experiência em outras linguagens de programação. Além disso, você terá acesso a materiais de apoio, incluindo exercícios práticos, exemplos de código e tutoriais em vídeo para ajudá-lo a solidificar seu conhecimento.\n\nAo final do curso, você terá uma compreensão sólida da lógica de programação e como aplicá-la em Python, permitindo que você crie seus próprios programas, resolva problemas e automatize tarefas repetitivas.",
+        "topicos_abordados": [
+            "Aprenderá como funciona a lógica de programação",
+            "Utilizará como base da aprendizagem da lógica de programação, a linguagem Python",
+            "Aprenderá técnicas básicas e avançadas de Python",
+            "Praticará através de mais de 25 algoritmos",
+            "Desenvolverá 2 algoritmos de Inteligência Artificial em Python",
+            "Aprenderá sobre fluxogramas e sua importância",
+            "Desenvolverá algoritmos no editor de códigos mais popular do mundo - Visual Studio Code"
+        ],
+        "imagem_professor": "https://img-c.udemycdn.com/user/50x50/78254446_56c2_3.jpg",
+        "imagem_curso": "https://img-c.udemycdn.com/course/480x270/5180464_e60a_2.jpg",
+        "link_certificado": "https://www.udemy.com/certificate/UC-5ed2e47c-7181-4ae3-bbe9-4cba1d9c89b6/",
+        "certificado_pdf": "../Udemy/Lógica de Programação em Python/UC-5ed2e47c-7181-4ae3-bbe9-4cba1d9c89b6.pdf",
+        "certificado_jpg": "../Udemy/Lógica de Programação em Python/UC-5ed2e47c-7181-4ae3-bbe9-4cba1d9c89b6.jpg"
+    },
+    {
+        "nome_curso": "Python 3 COMPLETO",
+        "nome_professor": "Pierian Training",
+        "quantidade_aulas": "101",
+        "tempo_curso": "9h 54m",
+        "descricao_curso": "Este curso foi publicado em 2018 e já não conta mais com atualizações.\n\nTorne-se um Programador Python e aprenda uma das habilidades mais requisitadas nas áreas de ciência de dados e desenvolvimento Web! Este é o curso mais abrangente, porém direto, para a linguagem de programação Python da Udemy!\n\nSe você nunca programou antes, já conhece a sintaxe básica ou quer aprender sobre os recursos avançados do Python, este curso é para você! Com mais de 100 palestras e mais de 10 horas de vídeo, este curso vai ser seu guia definitivo para aprender de vez a linguagem! Ele inclui testes, trabalhos de casa, exercícios resolvidos, além de três grandes projetos para criar um portfólio de projetos em Python!\n\nEste curso lhe ensinará Python de maneira prática: cada palestra vem com um screencast de codificação completo e uma apostila de códigos correspondente! São dezenas de apostilas por escrito!\n\nAprenda da maneira que for melhor para você! E o melhor: você terá acesso vitalício a todo este conteúdo!",
+        "topicos_abordados": [
+            "Aprender a usar o Python 3 profissionalmente.",
+            "Criar jogos com Python, como jogo da velha e Blackjack!",
+            "Aprender recursos avançados do Python, como o módulo de coleções e como trabalhar com timestamps!",
+            "Aprender a usar programação orientada a objetos com classes!",
+            "Compreender temas complexos, como decoradores.",
+            "Compreender como usar o Jupyter Notebook e criar arquivos .py",
+            "Obter uma compreensão de como criar GUIs iterativas no sistema Jupyter Notebook!",
+            "Ter uma compreensão completa do Python desde o início!"
+        ],
+        "imagem_professor": "https://img-c.udemycdn.com/user/50x50/34725714_97e5_5.jpg",
+        "imagem_curso": "https://img-c.udemycdn.com/course/480x270/1364804_614e_6.jpg",
+        "link_certificado": "https://www.udemy.com/certificate/UC-742cda58-47b5-41ac-a589-73485f18d5c6/",
+        "certificado_pdf": "../Udemy/Python 3 COMPLETO/UC-742cda58-47b5-41ac-a589-73485f18d5c6.pdf",
+        "certificado_jpg": "../Udemy/Python 3 COMPLETO/UC-742cda58-47b5-41ac-a589-73485f18d5c6.jpg"
+    },
+    {
+        "nome_curso": "Python Automático- Aprenda a Programar e Automatizar do Zero",
+        "nome_professor": "Irlan Ferreira",
+        "quantidade_aulas": "143",
+        "tempo_curso": "10h 6m",
+        "descricao_curso": "Olá! Aqui você irá aprender do zero a programar usando a linguagem Python, uma das linguagens mais versáteis no mercado! E irá também aprender a automatizar tarefas criando códigos que deixam tudo automático!\n\nAprenda desde o básico de programação como:\n- Conceitos básicos e Tipos de dados\n- Condicionais (if, else, elif e match case)\n- Coleções (listas, tuplas e dicionários)\n- Loops (for e while), Funções, Módulos e pacotes\n- Tratamento de erros, Ambientes virtuais e Manipulação de tempo\n\nE automações de tarefas como:\n- Gerenciamento de arquivos e diretórios\n- Automação de arquivos Excel, PDFs e Word\n- Expressões regulares, Consumo de APIs e Web Scraping\n- Automação de E-mails e PyAutoGUI\n- Geração de Executáveis e QRCodes\n\nTorne-se um programador e destaque-se na sua empresa. Poupe tempo automatizando tarefas repetitivas e maçantes! Este curso foi pensado especialmente para quem está começando, mas quer ir além do básico.",
+        "topicos_abordados": [
+            "Aprender a programar do zero, mesmo sem ter nenhum conhecimento na área.",
+            "Aprender lógica de programação, no qual é um pilar essencial para qualquer projeto de software.",
+            "Automatizar processos no computador, como manuseamento de arquivos e diretórios com código.",
+            "Automatizar planilhas Excel: extraindo, inserindo, e alterando dados.",
+            "Aprender a utilizar expressões regulares para encontrar padrões em textos automaticamente.",
+            "Criar, editar, e ler documentos PDFs de forma automática.",
+            "Criar, editar, e ler documentos WORD de forma automática.",
+            "Web Scraping (raspagem de dados na internet).",
+            "Consumo de APIs de sistemas externos.",
+            "Automatizar envio e leitura de e-mails.",
+            "Automatizar entradas de teclado e mouse com PyAutoGUI",
+            "Criar executáveis do código, a fim de executá-lo sem precisar ter a linguagem instalada.",
+            "Gerar QRCodes dinamicamente por meio de códigos."
+        ],
+        "imagem_professor": "https://img-c.udemycdn.com/user/50x50/193173818_fb05_2.jpg",
+        "imagem_curso": "https://img-c.udemycdn.com/course/480x270/6514869_3f27.jpg",
+        "link_certificado": "https://www.udemy.com/certificate/UC-2b711c5f-e378-4cde-86ad-b5ebccc85fc5/",
+        "certificado_pdf": "../Udemy/Python Automático- Aprenda a Programar e Automatizar do Zero/UC-2b711c5f-e378-4cde-86ad-b5ebccc85fc5.pdf",
+        "certificado_jpg": "../Udemy/Python Automático- Aprenda a Programar e Automatizar do Zero/UC-2b711c5f-e378-4cde-86ad-b5ebccc85fc5.jpg"
+    },
+    {
+        "nome_curso": "Técnico Manutenção de Impressoras e Multifuncionais Laser",
+        "nome_professor": "Carlos Talarico",
+        "quantidade_aulas": "13",
+        "tempo_curso": "4h 55m",
+        "descricao_curso": "Nesse curso iremos aprender o funcionamento de uma impressora laser, desde o zero. Iremos abordar também outras qualidades que um técnico precisa ter, como saber atender um cliente, como interpretar um manual de serviços e muito mais.\n\nEsse curso foi idealizado em meados de 2006, e foi gravado e transformado em vídeo aula em 2017. Procuramos criar uma teoria bacana, com analogias a serem entendidas mesmo para quem não é formado em eletrônica, pois entendo que somente sabendo perfeitamente o funcionamento de um equipamento, você será capaz de resolver seus problemas.\n\nEu espero que aproveitem bem, e desde já começamos a alimentar o curso com aulas bônus. Colocarei esporadicamente aulas bônus de manutenção de impressoras, e também de instalação e configuração de softwares.\n\nSucesso a todos,\nCarlos Talarico.\n\nPara quem é este curso:\nPessoas com aptidões em mecânica e elétrica/eletrônica que queiram aprender um novo ofício ou se aperfeiçoar.",
+        "topicos_abordados": [
+            "Como é o funcionamento de uma impressora laser e quais seus pontos fracos."
+        ],
+        "imagem_professor": "https://img-c.udemycdn.com/user/50x50/49925246_2696.jpg",
+        "imagem_curso": "https://img-c.udemycdn.com/course/480x270/2098128_f4cd.jpg",
+        "link_certificado": "https://www.udemy.com/certificate/UC-0edf7b29-b2af-429c-81a6-f24b137f167d/",
+        "certificado_pdf": "../Udemy/Técnico Manutenção de Impressoras e Multifuncionais Laser/UC-0edf7b29-b2af-429c-81a6-f24b137f167d.pdf",
+        "certificado_jpg": "../Udemy/Técnico Manutenção de Impressoras e Multifuncionais Laser/UC-0edf7b29-b2af-429c-81a6-f24b137f167d.jpg"
+    }
+]
