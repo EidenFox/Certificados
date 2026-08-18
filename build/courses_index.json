@@ -138,5 +138,68 @@
         "link_certificado": "https://www.udemy.com/certificate/UC-0edf7b29-b2af-429c-81a6-f24b137f167d/",
         "certificado_pdf": "../Udemy/Técnico Manutenção de Impressoras e Multifuncionais Laser/UC-0edf7b29-b2af-429c-81a6-f24b137f167d.pdf",
         "certificado_jpg": "../Udemy/Técnico Manutenção de Impressoras e Multifuncionais Laser/UC-0edf7b29-b2af-429c-81a6-f24b137f167d.jpg"
+    },
+    {
+        "nome_curso": "Introdução ao Sistema Operacional Linux",
+        "nome_professor": "Diego Mariano, Ph.D.",
+        "quantidade_aulas": "26",
+        "tempo_curso": "1h 27m",
+        "descricao_curso": "Linux\né um sistema operacional que qualquer pessoa pode utilizar, estudar, modificar e distribuir livremente sem nenhum custo. Por esse motivo, a cada ano tem aumentado a comunidade de usuários do Linux. Entretanto, muitos usuários que desejam migrar para essa plataforma, ou que simplesmente desejam conhecê-la, o primeiro contato com Linux pode ser um pouco complexo.\nNeste curso, apresento uma  introdução do sistema operacional Linux utilizando a distribuição\nUbuntu\n18.04. Ubuntu é uma das mais populares distribuições do Linux. Neste curso também abordarei o \"temível\"\nterminal\nLinux (a lendária tela preta de linhas de comandos mostrada em todos os filmes de hackers) .\nMatricule-se já!\n\nPara quem é este curso:\n\nEste curso é destinado a todos que tenham interesse em aprender Linux",
+        "topicos_abordados": [
+            "Dar os primeiros passos no Linux",
+            "Instalar o Ubuntu 18.04",
+            "Instalar programas pela Ubuntu Software Center",
+            "Executar comandos no terminal Linux",
+            "Utilizar o pacote LibreOffice",
+            "Trabalhar com máquinas virtuais"
+        ],
+        "imagem_professor": "https://img-c.udemycdn.com/user/50x50/31056768_f957_4.jpg",
+        "imagem_curso": "https://img-c.udemycdn.com/course/480x270/2077574_b9e5_2.jpg",
+        "link_certificado": "",
+        "certificado_pdf": "./Udemy/Introdução ao Sistema Operacional Linux/certificado2.pdf",
+        "certificado_jpg": null
+    },
+    {
+        "nome_curso": "Introdução à linguagem Python",
+        "nome_professor": "Diego Mariano, Ph.D.",
+        "quantidade_aulas": "38",
+        "tempo_curso": "2h 3m",
+        "descricao_curso": "Python\né uma linguagem de programação de alto nível que vem sendo adota em todas as grandes universidades do mundo todo.\nNeste curso você aprenderá conceitos básicos da linguagem Python, como estruturas condicionais e de repetição, manipulação de strings, listas e arquivos. Tudo isso apresentado com uma metodologia simples, direta e sem enrolação. Matricule-se já neste curso e comece a aprender.\n\nPara quem é este curso:\n\nPessoas que queiram aprender programação Python",
+        "topicos_abordados": [
+            "Conceitos básicos de programação",
+            "Desenvolver seu raciocínio lógico",
+            "Desenvolver programas usando a linguagem Python",
+            "Manipular estruturas condicionais",
+            "Mineração de arquivos com Python",
+            "Manipular estruturas de repetição",
+            "Realizar operações matemáticas usando Python",
+            "Manipular strings",
+            "Realizar operações lógicas"
+        ],
+        "imagem_professor": "https://img-c.udemycdn.com/user/50x50/31056768_f957_4.jpg",
+        "imagem_curso": "https://img-c.udemycdn.com/course/480x270/1912898_33d5.jpg",
+        "link_certificado": "",
+        "certificado_pdf": "./Udemy/Introdução à linguagem Python/Introdução à linguagem Python.pdf",
+        "certificado_jpg": null
+    },
+    {
+        "nome_curso": "Terminal Linux",
+        "nome_professor": "Diego Mariano, Ph.D.",
+        "quantidade_aulas": "15",
+        "tempo_curso": "55 m",
+        "descricao_curso": "Terminal\né o aplicativo dos sistemas operacionais Linux que permite acesso ao\nbash\n: o interpretador de linhas de comandos que permite a comunicação entre usuário e o sistema operacional (\nshell\n). Entretanto, compreender como funciona temível tela preta do terminal ainda é um mistério para muitos.\nNeste curso, abordarei alguns comandos básicos do terminal Linux. Você também aprenderá a criar programas com\nshell script\n. Matricule-se já!\n\nPara quem é este curso:\n\nProfissionais da área da computação (infra-estrutura ou desenvolvimento)\nUsuários do sistema Linux\nUsuários de Windows que estejam migrando para Linux\nPessoas interessadas em aprender",
+        "topicos_abordados": [
+            "Executar comandos no Terminal Linux",
+            "Criar programas com shell script",
+            "Instalar programas pela linha de comando",
+            "Navegar pelo sistema de arquivos Linux usando shell",
+            "Alterar permissões de arquivos",
+            "Editar arquivos pelo terminal usando os software vi"
+        ],
+        "imagem_professor": "https://img-c.udemycdn.com/user/50x50/31056768_f957_4.jpg",
+        "imagem_curso": "https://img-c.udemycdn.com/course/480x270/2077578_ffca.jpg",
+        "link_certificado": "",
+        "certificado_pdf": "./Udemy/Terminal Linux/Terminal Linux.pdf",
+        "certificado_jpg": null
     }
 ]
