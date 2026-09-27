@@ -3,7 +3,6 @@ const modal = document.getElementById('course-modal');
 const modalBody = document.getElementById('modal-body');
 const closeModalBtn = document.getElementById('close-modal');
 
-/* INICIO DE FUNÇÃO DE [loadCourses]; esta função faz [a requisição fetch no courses_index.json unificado e a iteração para a criação dos cards no DOM] */
 async function loadCourses() {
     try {
         const response = await fetch('./build/courses_index.json');
@@ -16,7 +15,6 @@ async function loadCourses() {
     }
 }
 
-/* INICIO DE FUNÇÃO DE [createCard]; esta função faz [a criação dos elementos HTML do card individual e sua injeção na grid] */
 function createCard(data) {
     const card = document.createElement('div');
     card.className = 'card';
@@ -36,7 +34,6 @@ function createCard(data) {
     grid.appendChild(card);
 }
 
-/* INICIO DE FUNÇÃO DE [openModal]; esta função faz [a injeção de dados no modal de exibição, renderiza o botão "Ver Certificado" e adiciona um Select para baixar os arquivos disponíveis] */
 function openModal(data) {
     const topicsHtml = data.topicos_abordados && data.topicos_abordados.length > 0
         ? data.topicos_abordados.map(t => `<li>${t}</li>`).join('')
@@ -46,7 +43,6 @@ function openModal(data) {
         ? `<img src="${data.imagem_professor}" alt="Foto do Professor" class="instructor-img">`
         : '';
 
-    // Renderizando o grupo de download via Select
     let downloadOptionsHtml = '';
     if (data.certificado_pdf || data.certificado_jpg) {
         downloadOptionsHtml += `
@@ -61,7 +57,6 @@ function openModal(data) {
         `;
     }
 
-    // Renderizando os links de certificado
     let certLinkHtml = '';
     if (data.link_certificado) {
         certLinkHtml = `<a href="${data.link_certificado}" target="_blank" class="cert-link">Ver Certificado</a>`;
@@ -99,7 +94,6 @@ function openModal(data) {
 
     modal.classList.remove('hidden');
 
-    // Listener para o botão de Download
     const downloadBtn = document.getElementById('downloadBtn');
     if (downloadBtn) {
         downloadBtn.addEventListener('click', () => {
